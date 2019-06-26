@@ -1,0 +1,12 @@
+h1{
+   position: center;
+   font: 200;
+   font-size: 50px;
+   color: rgb(255, 51, 0);
+   margin-left: 400px;
+
+}
+body{
+    color: aqua;
+    background-image:url("/images/icon.png");
+}
